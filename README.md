@@ -1,14 +1,3 @@
-<div align="center">
-  <br />
-      <img src="https://private-user-images.githubusercontent.com/151519281/293458629-562e0f27-4b93-41cb-a63d-7c50940fc0ad.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDYzODU2NzMsIm5iZiI6MTcwNjM4NTM3MywicGF0aCI6Ii8xNTE1MTkyODEvMjkzNDU4NjI5LTU2MmUwZjI3LTRiOTMtNDFjYi1hNjNkLTdjNTA5NDBmYzBhZC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMTI3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDEyN1QxOTU2MTNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT04ZjAwYWRiMzIyYjFlMDA3NDdmYzRhYTc2NjY4YTc5MzY1YTJkNTFhMGIzYmIzMzZmYzhhY2M2MTk0ODNlOTQ2JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.deDFFImPx7M9cuYHIUtM8SZkIMZiQlN3a8sgrP7xu1E" alt="Project Banner">
-    </a>
-  <br />
-
-  <div>
-    <img src="https://img.shields.io/badge/-HTML_5-black?style=for-the-badge&logoColor=white&logo=html5&color=E34F26" alt="html5" />
-    <img src="https://img.shields.io/badge/-css3-black?style=for-the-badge&logoColor=white&logo=css3&color=1572B6" alt="css3" />
-  </div>
-
   <h3 align="center">Sushi Website</h3>
 
 </div>
