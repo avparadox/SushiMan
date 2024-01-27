@@ -1,7 +1,6 @@
 <div align="center">
   <br />
-    <a href="https://youtu.be/QRrPE9aj3wI?feature=shared" target="_blank">
-      <img src="https://github.com/adrianhajdin/project_html_css_website/assets/151519281/562e0f27-4b93-41cb-a63d-7c50940fc0ad" alt="Project Banner">
+      <img src="https://private-user-images.githubusercontent.com/151519281/293458629-562e0f27-4b93-41cb-a63d-7c50940fc0ad.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDYzODU2NzMsIm5iZiI6MTcwNjM4NTM3MywicGF0aCI6Ii8xNTE1MTkyODEvMjkzNDU4NjI5LTU2MmUwZjI3LTRiOTMtNDFjYi1hNjNkLTdjNTA5NDBmYzBhZC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMTI3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDEyN1QxOTU2MTNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT04ZjAwYWRiMzIyYjFlMDA3NDdmYzRhYTc2NjY4YTc5MzY1YTJkNTFhMGIzYmIzMzZmYzhhY2M2MTk0ODNlOTQ2JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.deDFFImPx7M9cuYHIUtM8SZkIMZiQlN3a8sgrP7xu1E" alt="Project Banner">
     </a>
   <br />
 
@@ -23,10 +22,9 @@
 5. 🔗 [Links](#links)
 6. 🚀 [More](#more)
 
-
 ## <a name="introduction">🤖 Introduction</a>
 
-Developed a sushi website showcasing popular food, trending sushi, and drinks using HTML and CSS with smooth subtle animations. 
+Developed a sushi website showcasing popular food, trending sushi, and drinks using HTML and CSS with smooth subtle animations.
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
@@ -53,12 +51,12 @@ Developed a sushi website showcasing popular food, trending sushi, and drinks us
 👉 **Responsive Design**: The application is completely responsive across all devices, employing responsive design techniques such as media queries and fluid layouts.
 
 all these while creating the sushi website with,
-* Navigation Bar
-* Creative Hero Section
-* About Us Section
-* Popular Food, Trending Sushi, and Drinks Sections
-* Newsletter Signup and Footer
 
+- Navigation Bar
+- Creative Hero Section
+- About Us Section
+- Popular Food, Trending Sushi, and Drinks Sections
+- Newsletter Signup and Footer
 
 ## <a name="quick-start">🤸 Quick Start</a>
 
@@ -75,8 +73,8 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/adrianhajdin/project_html_css_website.git
-cd project_html_css_website
+git clone https://github.com/Adiiittt/SushiMan.git
+cd SushiMan
 ```
 
 **Installation**
@@ -98,4 +96,3 @@ Open [http://localhost:5173](http://localhost:5173) in your browser to view the 
 ## <a name="links">🔗 Links</a>
 
 Assets used in the project are [here](https://drive.google.com/file/d/1feqXd1mPKjdQDjd3l4hV_JcX-l1mJRor/view)
-
