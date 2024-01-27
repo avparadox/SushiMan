@@ -1,6 +1,7 @@
 <div align="center">
   <br />
-      <img src="https://private-user-images.githubusercontent.com/151519281/293458629-562e0f27-4b93-41cb-a63d-7c50940fc0ad.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDYzODQ4MTQsIm5iZiI6MTcwNjM4NDUxNCwicGF0aCI6Ii8xNTE1MTkyODEvMjkzNDU4NjI5LTU2MmUwZjI3LTRiOTMtNDFjYi1hNjNkLTdjNTA5NDBmYzBhZC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMTI3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDEyN1QxOTQxNTRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1hMWQ3MTA4MTg1MTMzMjIwZGU5YWJiM2RlMTQ0MWU3MTZmODIwMDk1YzFmMDYyZTg1ZjNjYzRkMjBlOTgyNzRkJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.Uo8jRIMb4XQtrHAChqhHxAGrKAlqBXl8LGxdSxUE5ig" alt="Project Banner">
+    <a href="https://youtu.be/QRrPE9aj3wI?feature=shared" target="_blank">
+      <img src="https://github.com/adrianhajdin/project_html_css_website/assets/151519281/562e0f27-4b93-41cb-a63d-7c50940fc0ad" alt="Project Banner">
     </a>
   <br />
 
@@ -11,6 +12,11 @@
 
   <h3 align="center">Sushi Website</h3>
 
+   <div align="center">
+     Build this project step by step with our detailed tutorial on <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a> YouTube. Join the JSM family!
+    </div>
+</div>
+
 ## 📋 <a name="table">Table of Contents</a>
 
 1. 🤖 [Introduction](#introduction)
@@ -20,9 +26,21 @@
 5. 🔗 [Links](#links)
 6. 🚀 [More](#more)
 
+## 🚨 Tutorial
+
+This repository contains the code corresponding to an in-depth tutorial available on our YouTube channel, <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a>. 
+
+If you prefer visual learning, this is the perfect resource for you. Follow our tutorial to learn how to build projects like these step-by-step in a beginner-friendly manner!
+
+<a href="https://youtu.be/QRrPE9aj3wI?feature=shared" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/1736fca5-a031-4854-8c09-bc110e3bc16d" /></a>
+
 ## <a name="introduction">🤖 Introduction</a>
 
-Developed a sushi website showcasing popular food, trending sushi, and drinks using HTML and CSS with smooth subtle animations.
+Develop a sushi website showcasing popular food, trending sushi, and drinks using HTML and CSS with smooth subtle animations. 
+
+If you're getting started and need assistance or face any bugs, join our active Discord community with over 27k+ members. It's a place where people help each other out.
+
+<a href="https://discord.com/invite/n6EdbFJ" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/618f4872-1e10-42da-8213-1d69e486d02e" /></a>
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
@@ -48,13 +66,13 @@ Developed a sushi website showcasing popular food, trending sushi, and drinks us
 
 👉 **Responsive Design**: The application is completely responsive across all devices, employing responsive design techniques such as media queries and fluid layouts.
 
-All these while creating the sushi website with,
+all these while creating the sushi website with,
+* Navigation Bar
+* Creative Hero Section
+* About Us Section
+* Popular Food, Trending Sushi, and Drinks Sections
+* Newsletter Signup and Footer
 
-- Navigation Bar
-- Creative Hero Section
-- About Us Section
-- Popular Food, Trending Sushi, and Drinks Sections
-- Newsletter Signup and Footer
 
 ## <a name="quick-start">🤸 Quick Start</a>
 
@@ -71,8 +89,8 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/Adiiittt/SushiMan.git
-cd SushiMan
+git clone https://github.com/adrianhajdin/project_html_css_website.git
+cd project_html_css_website
 ```
 
 **Installation**
@@ -94,3 +112,4 @@ Open [http://localhost:5173](http://localhost:5173) in your browser to view the 
 ## <a name="links">🔗 Links</a>
 
 Assets used in the project are [here](https://drive.google.com/file/d/1feqXd1mPKjdQDjd3l4hV_JcX-l1mJRor/view)
+
