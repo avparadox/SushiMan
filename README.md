@@ -9,8 +9,7 @@
 3. 🔋 [Features](#features)
 4. 🤸 [Quick Start](#quick-start)
 5. 🔗 [Links](#links)
-6. 🚀 [More](#more)
-
+   
 ## <a name="introduction">🤖 Introduction</a>
 
 Developed a sushi website showcasing popular food, trending sushi, and drinks using HTML and CSS with smooth subtle animations.
